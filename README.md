@@ -1,0 +1,4 @@
+- Copy the generator prompt
+- Give it to your preferred Coding agent (Tested with Gemini-CLI with Gemini 3 Auto)
+- Add a note on your AGENTS.md, GEMINI.md or CLAUDE.md referencing the arch-doc folder
+- Enjoy the feeling you get when your Vibe Coder knows about your codebase. 
